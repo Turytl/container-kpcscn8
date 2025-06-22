@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Turytl",
+  "repo": "container-kpcscn8",
+  "name": "Turytl",
+  "email": "rehangamez300@gmail.com",
+}
